@@ -1,0 +1,15 @@
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\bin\Debug\net7.0\Job-Rotation-Teste.exe
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\bin\Debug\net7.0\Job-Rotation-Teste.deps.json
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\bin\Debug\net7.0\Job-Rotation-Teste.runtimeconfig.json
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\bin\Debug\net7.0\Job-Rotation-Teste.dll
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\bin\Debug\net7.0\Job-Rotation-Teste.pdb
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\Job-Rotation-Teste.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\Job-Rotation-Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\Job-Rotation-Teste.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\Job-Rotation-Teste.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\Job-Rotation-Teste.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\Job-Rotation-Teste.dll
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\refint\Job-Rotation-Teste.dll
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\Job-Rotation-Teste.pdb
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\Job-Rotation-Teste.genruntimeconfig.cache
+C:\Users\Raphael\source\repos\Job-Rotation-Teste\Job-Rotation-Teste\obj\Debug\net7.0\ref\Job-Rotation-Teste.dll

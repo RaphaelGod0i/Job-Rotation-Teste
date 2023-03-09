@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Job-Rotation-Teste", "Job-Rotation-Teste\Job-Rotation-Teste.csproj", "{4BAA56D2-F98D-430B-8D93-B4B0280DED71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BAA56D2-F98D-430B-8D93-B4B0280DED71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAA56D2-F98D-430B-8D93-B4B0280DED71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAA56D2-F98D-430B-8D93-B4B0280DED71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAA56D2-F98D-430B-8D93-B4B0280DED71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468E8727-09BE-4F05-B070-B66E7D8E0412}
+	EndGlobalSection
+EndGlobal
